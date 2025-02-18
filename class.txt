@@ -1,8 +1,8 @@
-Crimson
-Orange
-Blue
-Cyan
-Yellow
+Silver
+Fuchsia
+Purple
+Brown
+Red
 Charcoal
 Khaki
 Coral
